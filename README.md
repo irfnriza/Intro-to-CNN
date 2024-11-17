@@ -48,4 +48,8 @@ Contoh prediksi untuk gambar yang diunggah:
 ```text
 File: uploaded_image.jpg  
 Predicted Class Index: 1  
-Predicted Class Name: automobile  
+Predicted Class Name: automobile
+```
+
+### Sumber
+Kode ini berasal dari sumber: https://modul-praktikum-ai.vercel.app/Materi/4-convolutional-neural-network
